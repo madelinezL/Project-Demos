@@ -1,3 +1,3 @@
 # Demo
-This repository includes my indivudal projects. <br/> <br/>
+This repository includes my machine learning projects. <br/> <br/>
 -Spotify Personal Music Data Analysis 
