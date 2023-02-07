@@ -5,4 +5,4 @@ This repository includes my machine learning demos. <br/> <br/>
   - Clustering and PCA for wine 
   - Market Segmentation
   - Association Rules for grocery purchases <br/>
-* National Gas Demand Prediction 
+* National Gas Demand Prediction Model
