@@ -35,7 +35,7 @@ and rescale other variables to do unsupervised analysis.
 Here, we deploy 2 centers, to measure how well clustering is able to
 distinguish between whites and reds (preferably reds cluster and whites
 cluster).
-![](Case%20Studies%20pic/unnamed-chunk-4-1.png)
+![](case%20studies%20pic/unnamed-chunk-4-1.png)
 ![](HW4%20pic/unnamed-chunk-4-2.png)
 
     ##                          wine1$color
