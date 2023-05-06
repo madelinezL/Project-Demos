@@ -10,3 +10,5 @@ This repository includes my machine learning demos. <br/> <br/>
   - Association Rules for grocery purchases <br/> 
 
 * National Gas Demand Prediction Model
+
+* HAP UI Project
