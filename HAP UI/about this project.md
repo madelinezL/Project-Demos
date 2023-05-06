@@ -5,3 +5,4 @@ This project is a Deloitte firm initiative project which I enrolled starting fro
 * EMR/ EHR: Electronic Medical Record/ Electronic Health Record (e.g. Epic, MEDITECH, McKesson, and Allscripts)
 * ESB: Enterprise Service Bus (A software architecture that facilitates communication between different applications in a distributed computing environment)
 * MLLP: Minimal Lower Layer Protocol (A protocol used in healthcare industry to transmit messages between systems in a standardized way)
+* NAT: National Address Translation (A device 
