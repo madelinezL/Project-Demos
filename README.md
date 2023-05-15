@@ -12,4 +12,4 @@ This repository includes my machine learning demos. <br/> <br/>
 * National Gas Demand Prediction Model
 
 * HAP UI Project
- - Deloitte Firm Initiative project
+  - Deloitte Firm Initiative project
