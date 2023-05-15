@@ -1,4 +1,4 @@
-This project is a Deloitte firm initiative project which I enrolled starting from May, 2023.
+This Health Analytics Platform AI project is a Deloitte firm initiative project which I enrolled starting from May, 2023.
 
 *5/6/23* <br/>
 #### Acronyms/ Intro
