@@ -24,3 +24,9 @@ This Health Analytics Platform AI project is a Deloitte firm initiative project 
 #### Obstacles for an AI platform
 * Data is trapped inside other schemas and data stores.
 * Moving data from the EMR/ EHR systems can be extremely expensive, time consuming, and prone to error.
+
+*5/14/23* <br/>
+#### Many-to-Many-OBX spreadsheet work
+* Determine One-to-One
+  - OperationDefinition.name
+  - Highest matching score
