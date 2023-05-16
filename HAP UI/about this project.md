@@ -2,7 +2,7 @@ This Health Analytics Platform.AI project is a Deloitte firm initiative project 
 
 *5/6/23* <br/>
 #### Acronyms/ Intro
-* ADI: Automated Dtaa Integration
+* ADI: Automated Data Integration
 * RDBMS: Regional Database Management System
 * EMR/ EHR: Electronic Medical Record/ Electronic Health Record (e.g. Epic, MEDITECH, McKesson, and Allscripts)
 * ESB: Enterprise Service Bus (A software architecture that facilitates communication between different applications in a distributed computing environment)
