@@ -13,3 +13,6 @@ This repository includes my machine learning demos. <br/> <br/>
 
 * HAP UI Project
   - Deloitte Firm Initiative project
+
+* Fraud Detection
+  - Deloitte Hackathon Competition project
