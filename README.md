@@ -11,7 +11,7 @@ This repository includes my machine learning demos. <br/> <br/>
 
 * National Gas Demand Prediction Model
 
-* HAP UI Project
+* Healthcare Analytics Platform Artificial Intelligence (HAP.ai) Project
   - Deloitte Firm Initiative project
 
 * Fraud Detection
