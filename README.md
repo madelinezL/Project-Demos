@@ -17,5 +17,5 @@ This repository includes my machine learning demos. <br/> <br/>
 * Fraud Detection
   - Deloitte Hackathon Competition project
 
-* US Lifescience Finance Performance & Process Benchmarking Project (group work)
+* Life Science Account Scan Project (group work)
   - Deloitte Firm Initiative project
