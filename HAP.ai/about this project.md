@@ -1,6 +1,9 @@
 This Health Analytics Platform.AI project is a Deloitte firm initiative project which I enrolled starting from May, 2023.
 https://github.com/rvs3129/automatch.ai/tree/dev
 
+#### Project Backgroud
+Artificial Intelligence (AI) has the potential to revolutionize the healthcare industry by making medical diagnosis faster and more accurate, improving patient outcomes, and reducing costs. However, the successful implementation of AI in healthcare relies on the consolidation of relevant data into an analytics friendly platform. Unfortuantely, most of the data required to perform meaningful analyses is often trapped inside various schemas and data stores. To address this issue, the Health Analytics Platform - Artificial Intelligence (HAP.ai) is designed to handle the complexities of healthcare data integration. HAP.ai  
+
 *5/6/23* <br/>
 #### Acronyms/ Intro
 * ADI: Automated Data Integration
@@ -21,6 +24,7 @@ https://github.com/rvs3129/automatch.ai/tree/dev
 * Amazon SageMaker: A platform that enables developers and data scientists to quickly and easily build, train, and deploy machine learning models at scale. 
 * Amazon QuickSight: A business intelligence (BI) service by Amazon Web Services (AWS) that allows users to create and publish interactive BI dashboards.
 * Ontology-drive: Refers to an approach that uses a formal ontology to drive the process of data mapping and transformation. In the context of NLP and data mapping, an ontology can be used to represent the meaning and relationships of the terms of concepts used in a particular dataset or domain of data. 
+* SME: Subject Matter Experts. These are individuals who possess specialized knowledge and expertise in a particular field or domain.
 
 #### Obstacles for an AI platform
 * Data is trapped inside other schemas and data stores.
