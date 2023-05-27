@@ -11,11 +11,11 @@ This repository includes my machine learning demos. <br/> <br/>
 
 * National Gas Demand Prediction Model
 
-* Healthcare Analytics Platform Artificial Intelligence (HAP.ai) Project
+* Healthcare Analytics Platform Artificial Intelligence (HAP.ai) Project (group work)
   - Deloitte Firm Initiative project
 
 * Fraud Detection
   - Deloitte Hackathon Competition project
 
-* US Lifescience Finance Performance & Process Benchmarking Project
+* US Lifescience Finance Performance & Process Benchmarking Project (group work)
   - Deloitte Firm Initiative project
