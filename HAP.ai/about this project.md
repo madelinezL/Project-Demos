@@ -1,9 +1,9 @@
 This Health Analytics Platform.AI project is a Deloitte firm initiative project which I enrolled starting from May, 2023.
 
-#### Project Backgroud
+### Project Backgroud
 Artificial Intelligence (AI) has the potential to revolutionize the healthcare industry by making medical diagnosis faster and more accurate, improving patient outcomes, and reducing costs. However, the successful implementation of AI in healthcare relies on the consolidation of relevant data into an analytics friendly platform. Unfortuantely, most of the data required to perform meaningful analyses is often trapped inside various schemas and data stores. To address this issue, the Health Analytics Platform - Artificial Intelligence (HAP.ai) is designed to handle the complexities of healthcare data integration. By seamlessly connecting disparate data sources and schemas, HAP.ai enables healthcare providers to unlock valuable insights and harness the power of AI for informed decision-making.
 
-#### HAP.ai Architecture
+### HAP.ai Architecture
 <p align="center">
   <img src="screenshot/HAP.ai architecture.PNG", width="700">
 </p>
@@ -13,23 +13,23 @@ The above is an overview of the HAP.ai architecture. The platform consists of th
 2. An application that consumes the mapping file and dynamically transforms the HL7v2 message into a FHIR JSON object and loads it into AWS' HealthLake platform.
 3. An AI front-end using Sagemaker, Athena, and Quicksight to provide healthcare administrators and clinicians with real-time actionable insights into their operational and patient data. 
 
-#### Responsibilities and Contributions
+### Responsibilities and Contributions
 I am part of the AutoMatch.ai group supporting the development of the HAP.ai platform. My primary focus is on designing the user interface (UI) for the mapping process from HL7V2 specification to FHIR specification. Using tools such as Figma, I create intuitive and visually appealing UI components that streamline the mapping process. In addition to UI design, I acticely contribute to the front-end development of the application using Angular, a powerful JavaScript framework. Leveraging the coding skills, I transforme the UI designs into functional and interactive elements, ensuring a seamless user experience during the mapping process. During the phase of this project, I collaborate with software engineers working on natural language processing (NLP) ontlogy driven algorithms for matching to deliver a robust and user-friendly application.
 
-##### 1. Many-to-Many-OBX spreadsheet work
+#### 1. Many-to-Many-OBX spreadsheet work
 * Determine One-to-One
   - OperationDefinition.name
   - Highest matching score
 
-##### 2. Automatch.ai UI
+#### 2. Automatch.ai UI
 * Figma Wireframe <br/>
   https://www.figma.com/file/PiI6W0HdnYgTASpIrle7cb/Healthcare-Analytics?type=design&node-id=1-2&t=wplUFjbOJOQgtbIk-0
 
-##### 3. Application Development
+#### 3. Application Development
 * Repository Link <br/>
   https://github.com/rvs3129/automatch.ai/tree/color-scheme
 
-#### Terms
+### Terms
 * ADI: Automated Data Integration
 * RDBMS: Regional Database Management System
 * EMR/ EHR: Electronic Medical Record/ Electronic Health Record (e.g. Epic, MEDITECH, McKesson, and Allscripts)
