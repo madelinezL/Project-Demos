@@ -1,11 +1,33 @@
 This Health Analytics Platform.AI project is a Deloitte firm initiative project which I enrolled starting from May, 2023.
-https://github.com/rvs3129/automatch.ai/tree/dev
 
 #### Project Backgroud
-Artificial Intelligence (AI) has the potential to revolutionize the healthcare industry by making medical diagnosis faster and more accurate, improving patient outcomes, and reducing costs. However, the successful implementation of AI in healthcare relies on the consolidation of relevant data into an analytics friendly platform. Unfortuantely, most of the data required to perform meaningful analyses is often trapped inside various schemas and data stores. To address this issue, the Health Analytics Platform - Artificial Intelligence (HAP.ai) is designed to handle the complexities of healthcare data integration. HAP.ai  
+Artificial Intelligence (AI) has the potential to revolutionize the healthcare industry by making medical diagnosis faster and more accurate, improving patient outcomes, and reducing costs. However, the successful implementation of AI in healthcare relies on the consolidation of relevant data into an analytics friendly platform. Unfortuantely, most of the data required to perform meaningful analyses is often trapped inside various schemas and data stores. To address this issue, the Health Analytics Platform - Artificial Intelligence (HAP.ai) is designed to handle the complexities of healthcare data integration. By seamlessly connecting disparate data sources and schemas, HAP.ai enables healthcare providers to unlock valuable insights and harness the power of AI for informed decision-making.
 
-*5/6/23* <br/>
-#### Acronyms/ Intro
+#### HAP.ai Architecture
+<p align="center">
+  <img src="screenshot/HAP.ai architecture.PNG" alt="HAP.ai Architecture" width="700">
+</p>
+
+The above is an overview of the HAP.ai architecture. The platform consists of three applications or phases:
+1. Mapping the HL7V2 specification to the FHIR specification using an NLP Ontology driven algorithm with a user interface for mapping validation.
+2. An application that consumes the mapping file and dynamically transforms the HL7v2 message into a FHIR JSON object and loads it into AWS' HealthLake platform.
+3. An AI front-end using Sagemaker, Athena, and Quicksight to provide healthcare administrators and clinicians with real-time actionable insights into their operational and patient data. 
+
+#### Responsibilities and Contributions
+I am part of the AutoMatch.ai group in the development of the HAP.ai platform. My primary job responsibilities focused on designing the user interface (UI) for the mapping process from HL7V2 specification to FHIR specification. I utilized tools like Figma to create intuitive and visually appealing UI components that facilitated the mapping process. Moreover, I acticely participated in the front-end development of the application using Angular, a JavaScript framework. Leveraging the coding skills, I translated UI designs into functional and interactive elements, ensuring a seamless user experience during the mapping process. Throughout the project, I collaborated 
+
+The Healthcare Analytics Platform is an extension of the AutoMatch.aiproject (Finalist in Asset Wars 2022), and is a product being developed to map HL7 v2 to FHIR data for the healthcare industry that utilizes an NLP ontology driven algorithm. During this phase of the project, the team will refine the matching process performed in AutoMatch.aiPhase I and begin building out the framework for Phase II which provides a mechanism of transforming and loading data into a FHIR store -- AWS HealthLake in this instance. Participants must join the Tech Guild Program to participate. -- If interested, please DM Randall at rshane@deloitte.com
+
+##### Many-to-Many-OBX spreadsheet work
+* Determine One-to-One
+  - OperationDefinition.name
+  - Highest matching score
+
+##### Automatch.ai UI
+* Figma Wireframe <br/>
+  https://www.figma.com/file/PiI6W0HdnYgTASpIrle7cb/Healthcare-Analytics?type=design&node-id=1-2&t=wplUFjbOJOQgtbIk-0
+
+#### Terms
 * ADI: Automated Data Integration
 * RDBMS: Regional Database Management System
 * EMR/ EHR: Electronic Medical Record/ Electronic Health Record (e.g. Epic, MEDITECH, McKesson, and Allscripts)
@@ -26,12 +48,4 @@ Artificial Intelligence (AI) has the potential to revolutionize the healthcare i
 * Ontology-drive: Refers to an approach that uses a formal ontology to drive the process of data mapping and transformation. In the context of NLP and data mapping, an ontology can be used to represent the meaning and relationships of the terms of concepts used in a particular dataset or domain of data. 
 * SME: Subject Matter Experts. These are individuals who possess specialized knowledge and expertise in a particular field or domain.
 
-#### Obstacles for an AI platform
-* Data is trapped inside other schemas and data stores.
-* Moving data from the EMR/ EHR systems can be extremely expensive, time consuming, and prone to error.
-
-*5/14/23* <br/>
-#### Many-to-Many-OBX spreadsheet work
-* Determine One-to-One
-  - OperationDefinition.name
-  - Highest matching score
+### Relevant Links
