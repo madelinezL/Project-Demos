@@ -14,7 +14,7 @@ The team will provide solutions across from the below four major parameters at a
 I have been assisting in building executive level dashboards for Process parameter based off of the collected survey data. I utilize Tableau to create appropriate visualizations that effectively represent key metrics and insights, design the layout and structure of the dashboards to ensure a logical flow of the information and easy navigation, and collaborate with the team in charge of other parameters to monitor and evaluate the dashboards' effectiveness, incorporate feedbacks and make improvements as needed.
 
 ## Terms
-* R2R 
+* R2R: Reporting to Reporting
 * OTC: Over the Counter
 * P2P: Procure to Pay
-* FP&A
+* FP&A: Financial Planning and Analysis
