@@ -14,7 +14,7 @@ The above is an overview of the HAP.ai architecture. The platform consists of th
 3. An AI front-end using Sagemaker, Athena, and Quicksight to provide healthcare administrators and clinicians with real-time actionable insights into their operational and patient data. 
 
 #### Responsibilities and Contributions
-I am part of the AutoMatch.ai group in the development of the HAP.ai platform. My primary job responsibilities focused on designing the user interface (UI) for the mapping process from HL7V2 specification to FHIR specification. I utilized tools like Figma to create intuitive and visually appealing UI components that facilitated the mapping process. Moreover, I acticely participated in the front-end development of the application using Angular, a JavaScript framework. Leveraging the coding skills, I translated UI designs into functional and interactive elements, ensuring a seamless user experience during the mapping process. During the phase of this project, I collaborated with software engineers doing natural language processing (NLP) ontlogy driven algorithms matching to deliver a robust and user-friendly application.
+I am part of the AutoMatch.ai group supporting the development of the HAP.ai platform. My primary focus was on designing the user interface (UI) for the mapping process from HL7V2 specification to FHIR specification. Using tools such as Figma, I created intuitive and visually appealing UI components that streamlined the mapping process. In addition to UI design, I acticely contributed to the front-end development of the application using Angular, a powerful JavaScript framework. Leveraging the coding skills, I transformed the UI designs into functional and interactive elements, ensuring a seamless user experience during the mapping process. During the phase of this project, I collaborated with software engineers working on natural language processing (NLP) ontlogy driven algorithms for matching to deliver a robust and user-friendly application.
 
 ##### 1. Many-to-Many-OBX spreadsheet work
 * Determine One-to-One
@@ -49,5 +49,3 @@ I am part of the AutoMatch.ai group in the development of the HAP.ai platform. M
 * Amazon QuickSight: A business intelligence (BI) service by Amazon Web Services (AWS) that allows users to create and publish interactive BI dashboards.
 * Ontology-drive: Refers to an approach that uses a formal ontology to drive the process of data mapping and transformation. In the context of NLP and data mapping, an ontology can be used to represent the meaning and relationships of the terms of concepts used in a particular dataset or domain of data. 
 * SME: Subject Matter Experts. These are individuals who possess specialized knowledge and expertise in a particular field or domain.
-
-### Relevant Links
