@@ -5,7 +5,7 @@ Artificial Intelligence (AI) has the potential to revolutionize the healthcare i
 
 #### HAP.ai Architecture
 <p align="center">
-  <img src="screenshot/HAP.ai architecture.PNG", width="700">
+  <img src="screenshots/HAP.ai architecture.PNG", width="700">
 </p>
 
 The above is an overview of the HAP.ai architecture. The platform consists of three applications or phases:
