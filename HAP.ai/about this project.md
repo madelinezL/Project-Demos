@@ -16,14 +16,16 @@ The above is an overview of the HAP.ai architecture. The platform consists of th
 #### Responsibilities and Contributions
 I am part of the AutoMatch.ai group in the development of the HAP.ai platform. My primary job responsibilities focused on designing the user interface (UI) for the mapping process from HL7V2 specification to FHIR specification. I utilized tools like Figma to create intuitive and visually appealing UI components that facilitated the mapping process. Moreover, I acticely participated in the front-end development of the application using Angular, a JavaScript framework. Leveraging the coding skills, I translated UI designs into functional and interactive elements, ensuring a seamless user experience during the mapping process. During the phase of this project, I collaborated with software engineers doing natural language processing (NLP) ontlogy driven algorithms matching to deliver a robust and user-friendly application.
 
-##### Many-to-Many-OBX spreadsheet work
+##### 1. Many-to-Many-OBX spreadsheet work
 * Determine One-to-One
   - OperationDefinition.name
   - Highest matching score
 
-##### Automatch.ai UI
+##### 2. Automatch.ai UI
 * Figma Wireframe <br/>
   https://www.figma.com/file/PiI6W0HdnYgTASpIrle7cb/Healthcare-Analytics?type=design&node-id=1-2&t=wplUFjbOJOQgtbIk-0
+
+##### 3. Application Development
 
 #### Terms
 * ADI: Automated Data Integration
