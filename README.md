@@ -16,7 +16,7 @@ This repository includes my below machine learning demos. <br/> <br/>
 * Healthcare Analytics Platform Artificial Intelligence (HAP.ai) Project (group work)
   - Deloitte Firm Initiative project <br/><br/>
 
-* Life Science Account Scan Project (group work)
+* Life Science Accounts Scan Project (group work)
   - Deloitte Firm Initiative project <br/><br/>
 
 * Fraud Detection
