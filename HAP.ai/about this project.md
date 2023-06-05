@@ -52,6 +52,6 @@ I am part of the AutoMatch.ai group supporting the development of the HAP.ai pla
 
 ## Bash Codes and Links
 ```npm install```
-* run the app
+* Run the app <br/>
 ```ng serve -o```
 
