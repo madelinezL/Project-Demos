@@ -51,6 +51,7 @@ I am part of the AutoMatch.ai group supporting the development of the HAP.ai pla
 * SME: Subject Matter Experts. These are individuals who possess specialized knowledge and expertise in a particular field or domain.
 
 ## Bash Codes and Links
+* Installation
 ```npm install```
 * Run the app <br/>
 ```ng serve -o```
