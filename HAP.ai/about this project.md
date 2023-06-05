@@ -49,3 +49,9 @@ I am part of the AutoMatch.ai group supporting the development of the HAP.ai pla
 * Amazon QuickSight: A business intelligence (BI) service by Amazon Web Services (AWS) that allows users to create and publish interactive BI dashboards.
 * Ontology-drive: Refers to an approach that uses a formal ontology to drive the process of data mapping and transformation. In the context of NLP and data mapping, an ontology can be used to represent the meaning and relationships of the terms of concepts used in a particular dataset or domain of data. 
 * SME: Subject Matter Experts. These are individuals who possess specialized knowledge and expertise in a particular field or domain.
+
+## Bash Codes and Links
+```npm install```
+* run the app
+```ng serve -o```
+
