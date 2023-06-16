@@ -54,5 +54,5 @@ I am part of the AutoMatch.ai group supporting the development of the HAP.ai pla
 * Installation <br/>
 ```npm install```
 * Run the app <br/>
-```ng serve -o```
+```ng serve -open```
 
