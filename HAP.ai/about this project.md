@@ -29,6 +29,10 @@ I am part of the AutoMatch.ai group supporting the development of the HAP.ai pla
 * Repository Link <br/>
   https://github.com/rvs3129/automatch.ai/tree/color-scheme
 
+### 4. Project Blog
+* Blog Link <br/>
+  https://americas.internal.deloitteonline.com/sites/NGA/NGABlog/Lists/Posts/Post.aspx?ID=71
+  
 ## Terms
 * ADI: Automated Data Integration
 * RDBMS: Regional Database Management System
