@@ -1,25 +1,25 @@
 # Demos
 This repository includes my below machine learning demos. <br/> <br/>
-### Spotify Personal Music Data Analysis <br/> <br/>
+### 1. Spotify Personal Music Data Analysis <br/> <br/>
 
-### Spotify Recommendation System Analysis 
-  - Hands On Project 
-  - Machine Learning Research Paper <br/><br/>
+### 2. Spotify Recommendation System Analysis 
+  - 2.1 Hands On Project 
+  - 2.2 Machine Learning Research Paper <br/><br/>
   
-### School Homework Case Studies (group work: 2 people) 
+### 3. School Homework Case Studies (group work: 2 people) 
   - Clustering and PCA for wine 
   - Market Segmentation
   - Association Rules for grocery purchases <br/> <br/>
 
-### National Gas Demand Prediction Model <br/> <br/>
+### 4. National Gas Demand Prediction Model <br/> <br/>
 
-### Healthcare Analytics Platform Artificial Intelligence (HAP.ai) Project (group work)
+### 5. Healthcare Analytics Platform Artificial Intelligence (HAP.ai) Project (group work)
   - Deloitte Firm Initiative project <br/><br/>
 
-### Life Science Accounts Scan Project (group work)
+### 6. Life Science Accounts Scan Project (group work)
   - Deloitte Firm Initiative project <br/><br/>
 
-### Fraud Detection
+### 7. Fraud Detection
   - Deloitte Hackathon Competition project
 
 
