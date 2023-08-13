@@ -3,8 +3,8 @@ This repository includes my below machine learning demos. <br/> <br/>
 ### 1. Spotify Personal Music Data Analysis <br/> <br/>
 
 ### 2. Spotify Recommendation System Analysis 
-  - 2.1 Hands On Project 
-  - 2.2 Machine Learning Research Paper <br/><br/>
+  - #### 2.1 Hands On Project 
+  - #### 2.2 Machine Learning Research Paper <br/><br/>
   
 ### 3. School Homework Case Studies (group work: 2 people) 
   - Clustering and PCA for wine 
