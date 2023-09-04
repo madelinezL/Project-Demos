@@ -1,7 +1,7 @@
 # Demos
 This repository includes my below machine learning demos. <br/> <br/>
 ### 1. Spotify Personal Music Data Analysis <br/> 
-  - #### 1.1 SQL Project 
+  - #### 1.1 SQL Project <br/>
 
 ### 2. Spotify Recommendation System Analysis 
   - #### 2.1 Hands On Project 
