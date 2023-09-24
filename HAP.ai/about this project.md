@@ -60,3 +60,6 @@ I am part of the AutoMatch.ai group supporting the development of the HAP.ai pla
 * Run the app <br/>
 ```ng serve -open```
 
+## Sample Work
+* [HAP UI](https://github.com/madelinezL/Project-Demos/blob/main/HAP.ai/Sample%20Work%20(redacted)/HAP.ai%20UI.JPG)
+* [HAP Augular](https://github.com/madelinezL/Project-Demos/blob/main/HAP.ai/Sample%20Work%20(redacted)/HAP.ai%20Augular.JPG)
