@@ -18,3 +18,7 @@ I have been assisting in building executive level dashboards for Process paramet
 * OTC: Over the Counter
 * P2P: Procure to Pay
 * FP&A: Financial Planning and Analysis
+
+## Sample Work
+* [Process (Metrics)] (https://github.com/madelinezL/Project-Demos/blob/main/Life%20Science%20Accounts%20Scan/Sample%20Work%20(redacted)/Process%20(Capabilities).JPG)
+* Process (Capabilities)
