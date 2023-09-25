@@ -47,3 +47,6 @@ The positive coefficient between Gross Margin and Geo ESG can be used to quantif
 <div align="center">
   </strong> ESG Value Contribution = [C * (% change in Geo ESG) * Current Gross Margin] * Current Revenue </strong>
 </div> <br>
+
+## Conclusion
+A regression analysis is performed to estimate the impact ESG scores have on companies' profitability. It is discovered that a higher ESG score provides direct benefit to a firm resulting in a higher Gross Margin. As a result of econometric analysis and regression specification process, key variables Gross Margin and Geo ESG have been identified. The positive coefficient between the key variables establishes that a higher ESG score provides direct benefit to a firm in terms higher Gross Margin. The coefficient also provides a quantifiable method to measure the value of ESG activities.
