@@ -22,5 +22,7 @@ The specification with natural log transformation of the key variables (i.e. gro
 The econometric results show a positive relationship between the Geo ESG and Gross Margin. This relationship can be expressed in terms of the percentage changes as below:
 
 <div align="center">
-  % change in Gross Margin = XXX * (% change in Geo ESG)
+  </strong> % change in Gross Margin = XXX * (% change in Geo ESG) </strong>
 </div>
+
+*Due to confidentiality reason, the coefficient value is a placeholder.
