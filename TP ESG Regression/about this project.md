@@ -38,6 +38,5 @@ The positive coefficient between Gross Margin and Geo ESG can be used to quantif
   </strong> % change in Gross Margin = C * (% change in Geo ESG) </strong>
 </div>
   
-
 5. Measure the impact on gross margin in adsolute terms, which is illustrated as: Absolute change in Gross Margin = C * (% change in Geo ESG) * Current Gross Margin
 6. Compute the ESG value contribution, which is illustrated as: ESG Value Contribution = [C * (% change in Geo ESG) * Current Gross Margin] * Current Revenue  
