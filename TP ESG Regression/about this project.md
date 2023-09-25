@@ -14,7 +14,7 @@ The supplemented dataset consists of macroeconomic variables by country and regi
 
 The specification with natural log transformation of the key variables (i.e. gross margin, geo ESG) passed various diagnostic tests (i.e. multicollinearity, autocorrelation, normality of residuals, consistency over different time duration) and provide the most robust results. A logarithms regression model is performed to analyze the multiplicative relationship between Geo ESG and Gross Margin of a company.
 
-## Results and Analysis
+## Model Results
 <p align="center">
   <img src="screenshot/ESG model.png" alt="model result" width="500">
 </p>
@@ -25,4 +25,4 @@ The econometric results show a positive relationship between the Geo ESG and Gro
   </strong> % change in Gross Margin = XXX * (% change in Geo ESG) </strong>
 </div>
 
-*Due to confidentiality reason, the coefficient value is a placeholder.
+## Interpretation and Application
