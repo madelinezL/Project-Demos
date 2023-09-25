@@ -12,11 +12,12 @@ The supplemented dataset consists of macroeconomic variables by country and regi
 
 ## Data Modeling
 
-The specification with natural log transformation of the key variables (i.e. gross margin, geo ESG) passed various diagnostic tests (i.e. multicollinearity, autocorrelation, normality of residuals, consistency over different time duration) and provide the most robust results. 
-A logarithms regression model is performed to analyze the relationship 
+The specification with natural log transformation of the key variables (i.e. gross margin, geo ESG) passed various diagnostic tests (i.e. multicollinearity, autocorrelation, normality of residuals, consistency over different time duration) and provide the most robust results. A logarithms regression model is performed to analyze the multiplicative relationship between Geo ESG and Gross Margin of a company.
 
-
-## Results and Analysis
+## Analysis
+<p align="center">
+  <img src="screenshot/ESG model.PNG" alt="model result" width="300">
+</p>
 
 
 ## Sample Work
