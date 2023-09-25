@@ -26,3 +26,4 @@ The econometric results show a positive relationship between the Geo ESG and Gro
 </div>
 
 ## Interpretation and Application
+The positive coefficient between Gross Margin and Geo ESG can be used to quantify the ESG value contribution with the help of the following steps.
