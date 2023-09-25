@@ -16,7 +16,7 @@ The specification with natural log transformation of the key variables (i.e. gro
 
 ## Analysis
 <p align="center">
-  <img src="screenshot/ESG model.PNG" alt="model result" width="300">
+  <img src="screenshot/ESG model.png" alt="model result" width="300">
 </p>
 
 
