@@ -15,10 +15,6 @@ The supplemented dataset consists of macroeconomic variables by country and regi
 The specification with natural log transformation of the key variables (i.e. gross margin, geo ESG) passed various diagnostic tests (i.e. multicollinearity, autocorrelation, normality of residuals, consistency over different time duration) and provide the most robust results. A logarithms regression model is performed to analyze the multiplicative relationship between Geo ESG and Gross Margin of a company.
 
 ## Model Results
-<p align="center">
-  <img src="screenshot/ESG model.png" alt="model result" width="500">
-</p>
-
 The econometric results show a positive relationship between the Geo ESG and Gross Margin. This relationship can be expressed in terms of the percentage changes as below:
 
 <div align="center">
@@ -51,4 +47,6 @@ The positive coefficient between Gross Margin and Geo ESG can be used to quantif
 ## Conclusion
 A regression analysis is performed to estimate the impact ESG scores have on companies' profitability. It is discovered that a higher ESG score provides direct benefit to a firm resulting in a higher Gross Margin. As a result of econometric analysis and regression specification process, key variables Gross Margin and Geo ESG have been identified. The positive coefficient between the key variables establishes that a higher ESG score provides direct benefit to a firm in terms higher Gross Margin. The coefficient also provides a quantifiable method to measure the value of ESG activities.
 
-## Sample Codes
+## Sample Work
+* [Regression Model Sample Codes](https://github.com/madelinezL/Project-Demos/blob/main/TP%20ESG%20Regression/Sample%20Work%20(redacted)/ESG%20Regression.png)
+* [Regression Model Result](https://github.com/madelinezL/Project-Demos/blob/main/TP%20ESG%20Regression/Sample%20Work%20(redacted)/ESG%20Regression%20Result.png)
