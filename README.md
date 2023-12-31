@@ -22,4 +22,4 @@ This repository includes my below machine learning demos. <br/> <br/>
 ### 7. Fraud Detection
   - Deloitte Hackathon Competition project
 ### 8. Streamlit Demo
-  - Google Stock Price/Volume Visual
+  - Tesla Stock Price/Volume Visual
