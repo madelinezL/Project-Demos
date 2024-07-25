@@ -1,4 +1,4 @@
-This Life Science Accounts Scan project is a Deloitte Firm Initiative project which I enrolled starting from May 2023. 
+This Life Science Accounts Scan project is a Deloitte Firm Initiative project which I enrolled from May 2023 to December 2023. 
 
 ## Project Background
 The Finance and Enterprise Performance (F&EP) team is executing a scan of finance functions across the life science sector to gather centralized data that is comprehensive, relevant, and transparent. Through the survey and dashboard, the team aims to extract current quantitative and qualitative metrics from life science account leaders and aggregate the centralized data to provide Partners, Principals, Managing Directors (PPMDs) with the ability to monitor and track account performance in comparision to industry standards.
